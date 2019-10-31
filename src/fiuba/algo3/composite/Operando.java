@@ -1,7 +1,5 @@
 package fiuba.algo3.composite;
 
-import java.util.ArrayList;
-
 public class Operando extends Componente {
 
     private int operando;
